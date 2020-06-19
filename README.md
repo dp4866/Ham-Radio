@@ -1,2 +1,2 @@
 # Ham-Radio
-Place for me to store my radio and electronics project code
+Feel free to use anything you find, no warrenty of any kind, of course.
